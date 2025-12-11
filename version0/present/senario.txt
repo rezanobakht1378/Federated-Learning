@@ -1,0 +1,4 @@
+senario1: all clients are good and client_loss_threshold = 0.1
+senario2: all clients are bad and client_loss_threshold = 0.1
+senario3: 33% of clients are bad and client_loss_threshold = 0.1
+senario4: 50% of clients are bad and client_loss_threshold = 0.1
